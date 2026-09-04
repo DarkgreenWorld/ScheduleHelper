@@ -1,4 +1,5 @@
-# 日程小助手 ScheduleHelper
+# 日程小助手
+# ScheduleHelper
 #### 一个雨滴桌面皮肤 ScheduleHelper skin for Rainmeter
 
 作者 author：Darkgreen World, Gemini 3.0 Pro
