@@ -2,6 +2,7 @@
 #### 一个雨滴桌面皮肤 ScheduleHelper skin for Rainmeter
 
 作者 author：Darkgreen World, Gemini 3.0 Pro
+
 最新版本 latest release version: 2.0.2
 
 UI基于 [KazukiGames82](https://github.com/KazukiGames82) 的插件 [FrostedGlass](https://github.com/KazukiGames82/RmPlugin-FrostedGlass) 。
